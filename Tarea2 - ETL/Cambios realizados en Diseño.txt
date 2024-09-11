@@ -1,0 +1,5 @@
+Relacionamos el AlumnoID con NotasSelectividad, que parecía no estar relacionado.
+Cambios en tipos de datos de Ids.
+Añadida nueva key a TiempoCalificaciones.
+Meto acceso e ingreso dentro de alumno
+Añadido atributo de cod_titulacion a Alumnos

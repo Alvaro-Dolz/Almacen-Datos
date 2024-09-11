@@ -1,0 +1,5 @@
+Materias:
+Artes y Humanidades
+Ciencias de la Naturaleza
+Ciencias Sociales y Matematicas
+Tecnologia e Ingenieria
